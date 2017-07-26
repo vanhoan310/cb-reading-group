@@ -5,7 +5,7 @@ The CB reading group is held Wednesday mornings at BioSysM. The goal is to have 
 
 Everyone is welcome to participate (faculty and students alike).  The only expectation is that participants read the paper scheduled for that week ahead of time.
 
-Please add papers that you would like to review in the table.
+Please add papers that you would like to review to the wiki linked below.
 
 ### [Summer 2017 Reading Schedule](https://github.com/canzarlab/cb-reading-group/wiki/Summer-2017-Schedule)
 
