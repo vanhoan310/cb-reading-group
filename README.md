@@ -7,5 +7,5 @@ Everyone is welcome to participate (faculty and students alike).  The only expec
 
 Please add papers that you would like to review in the table.
 
-### [Summer 2017 Reading Schedule](https://github.com/canzarlab/cb-reading-group/wiki/Summer-2017-Reading-Schedule)
+### [Summer 2017 Reading Schedule](https://github.com/canzarlab/cb-reading-group/wiki/Summer-2017-Schedule)
 
